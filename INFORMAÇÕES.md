@@ -14,8 +14,9 @@ Solucao-Problemas-Programas.bat
   0  Sair
 ============================================================
 
-
+===========================================================
 Remover-Apple-Mobile-Device.bat
+===========================================================
 Este script vai remover do Windows:
   iTunes, Apple Devices, Apple Music, iCloud,
   Apple Software Update, Apple Mobile Device Support,
